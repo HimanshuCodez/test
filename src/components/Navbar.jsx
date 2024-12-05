@@ -1,8 +1,8 @@
-import React, { useContext, useEffect, useState } from 'react'
+import React, {  useEffect, useState } from 'react'
 import moon from '../assets/moon.png'
 
 import user from '../assets/user.png'
-import sun from '../assets/brightness .png'
+import sun from '../assets/brightness.png'
 
 import { RiMenuFill } from "react-icons/ri";
 const Navbar = () => {
